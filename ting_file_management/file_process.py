@@ -22,25 +22,3 @@ def remove(instance):
 
 def file_metadata(instance, position):
     """Aqui irá sua implementação"""
-
-
-# new_queue = Queue()
-# new_queue.enqueue(
-#     {
-#         "nome_do_arquivo": "teste.txt",
-#         "qtd_linhas": 4,
-#         "linhas_do_arquivo": ["Teste", "teste"],
-#     }
-# )
-# new_queue.enqueue(
-#     {
-#         "nome_do_arquivo": "arquivo_teste.txt",
-#         "qtd_linhas": 3,
-#         "linhas_do_arquivo": ["Teste", "teste"],
-#     }
-# )
-
-# # print(new_queue.search(1))
-# print(process("statics/arquivo_teste.txt", new_queue))
-# process("statics/nome_pedr.txt", new_queue)
-# print(new_queue.data)
